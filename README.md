@@ -5,6 +5,10 @@ A Python-based invoice management application that allows you to create invoices
 The project is designed as a practical Python application with separate modules for invoice calculations, database management, PDF generation, and the command-line interface.
 
 ---
+<img width="492" height="270" alt="Screenshot From 2026-09-27 17-06-22" src="https://github.com/user-attachments/assets/27f12e84-db4a-44fc-b318-8b8902882c28" />
+<img width="249" height="195" alt="Screenshot From 2026-09-27 17-06-46" src="https://github.com/user-attachments/assets/24b586fa-9db0-4487-bfea-1708cb4f9154" />
+<img width="507" height="364" alt="Screenshot From 2026-09-27 17-06-58" src="https://github.com/user-attachments/assets/8f984e11-78df-49c7-8565-c252050af0a8" />
+
 
 ## Features
 
